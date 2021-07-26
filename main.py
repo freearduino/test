@@ -1,4 +1,4 @@
-# Parce ываааа
+# Parce ывааааda as
 import requests
 
 
